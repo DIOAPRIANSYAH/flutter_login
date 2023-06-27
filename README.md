@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-### It should looks like this :
+### It should be looks like this :
 
 Full Gif | Prove on Firebase
 ---|---
